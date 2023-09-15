@@ -1,4 +1,4 @@
-# Diabetics prediction and cause analysis in U.S.
+# Diabetes prediction and cause analysis in U.S.
 
 Implemented the following steps:
 1. Data Collection
